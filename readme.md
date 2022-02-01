@@ -8,12 +8,12 @@
 
 💬 **I speak:**
 
-- English ~ B2-C1*
-- German = Native*
-- Spanish ~ A2*
-- Danish ~ A2*
+- English ~ B2-C1
+- German = Native
+- Spanish ~ A2
+- Danish ~ A2
 
-\* Self-assesed (CERF)
+Self-assesed (CEFR)
 
 ---
 
