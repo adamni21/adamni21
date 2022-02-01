@@ -10,8 +10,8 @@
 
 - English ~ B2-C1
 - German = Native
-- Spanish ~ A2
-- Danish ~ A2
+- Spanish ~ A2-B1
+- Danish ~ A1-A2
 
 Self-assesed (CEFR)
 
