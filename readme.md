@@ -16,7 +16,7 @@
 
 \- Danish ~ A1-A2
 
-Self-assesed (CEFR)
+^Self-assesed (CEFR)
 
 ---
 
