@@ -8,13 +8,13 @@
 
 💬 **I speak:**
 
-\- English Fluent
+\- English: Fluent
 
-\- German = Native
+\- German: Native
 
-\- Spanish ~B1
+\- Spanish: A2~B1
 
-\- Danish ~A2
+\- Danish: A1~A2
 
 ^Self-assesed (CEFR)
 
