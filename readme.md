@@ -25,7 +25,7 @@
 
 **Languages:**
 
-`Javascript` `Typescript` `Python(basics)` `CSS` `HTML` `SQL(basics)`
+`Javascript` `Typescript` `Kotlin` `Python(basics)` `CSS` `HTML` `SQL(basics)`
 
 **Frameworks/Libraries:**
 
@@ -39,6 +39,10 @@
 
 ## 🏗 My Projects
 
-👉 [Full Stack Blog (practice)](https://github.com/adamni21/Full_stack_blog-practice-project-)
+👉 [Full Stack Blog](https://github.com/adamni21/Full_stack_blog-practice-project-)
+
+👉 [Frontend for restcountries api](https://github.com/adamni21/Rest-countries-Api-client)
+
+👉 [Tic Tac Toe](https://github.com/adamni21/tic-tac-toe)
 
 ### 
