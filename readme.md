@@ -25,7 +25,9 @@
 
 **Languages:**
 
-`Javascript` `Typescript` `Kotlin` `Python(basics)` `CSS` `HTML` `SQL(basics)`
+`Javascript` `Typescript` `Kotlin*` `Python(basics)` `CSS` `HTML` `SQL(basics)`
+
+<sub>* only code challenges so far</sub>
 
 **Frameworks/Libraries:**
 
