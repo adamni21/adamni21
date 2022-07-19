@@ -1,6 +1,6 @@
 # Nicodemus Adams
   
-👋 Hi, am a self thaught Full Stack Developer.
+👋 Hi, am a self taught Full Stack Developer.
 
 🔍 You can also find me on:
 
