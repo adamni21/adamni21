@@ -1,6 +1,6 @@
 # Nicodemus Adams
   
-👋 Hi, am a self taught Full Stack Developer.
+👋 Hi, am a self-taught Full Stack Developer.
 
 🔍 You can also find me on:
 
@@ -25,9 +25,7 @@
 
 **Languages:**
 
-`Javascript` `Typescript` `Kotlin*` `Python(basics)` `CSS` `HTML` `SQL(basics)`
-
-<sub>* only code challenges so far</sub>
+`Javascript` `Typescript` `Kotlin(basics)` `Python(basics)` `CSS` `HTML` `SQL(basics)`
 
 **Frameworks/Libraries:**
 
