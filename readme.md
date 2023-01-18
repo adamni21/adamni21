@@ -25,11 +25,11 @@
 
 **Languages:**
 
-`Javascript` `Typescript` `Kotlin(basics)` `Python(basics)` `CSS` `HTML` `SQL(basics)`
+`Javascript` `Typescript` `C#` `Kotlin(basics)` `Python(basics)` `CSS` `HTML` `SQL(basics)`
 
 **Frameworks/Libraries:**
 
-`React` `ExpressJs` `TypeOrm` `TypeGraphQL` `Redux/Redux-Toolkit` `StyledComponents` `Bootstrap`
+`Next/React` `ASP.NET Core` `Entity Framework` `TypeGraphQL` `Redux/Redux-Toolkit` `StyledComponents` `Bootstrap`
 
 **Tools:**
 
