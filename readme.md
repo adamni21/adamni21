@@ -4,7 +4,7 @@
 
 🔍 You can also find me on:
 
-[`CodeSandbox`](https://codesandbox.io/u/adamni21) [`HackerRank`](https://www.hackerrank.com/adams_nicodemus) [`StackOverflow`](https://stackoverflow.com/users/16441971/adamni21).
+[`LinkedIn`](https://www.linkedin.com/in/nicodemus-adams) [`CodeSandbox`](https://codesandbox.io/u/adamni21) [`HackerRank`](https://www.hackerrank.com/adams_nicodemus) [`StackOverflow`](https://stackoverflow.com/users/16441971/adamni21).
 
 💬 **I speak:**
 
