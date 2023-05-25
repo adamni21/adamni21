@@ -6,17 +6,6 @@
 
 [`LinkedIn`](https://www.linkedin.com/in/nicodemus-adams) [`CodeSandbox`](https://codesandbox.io/u/adamni21) [`HackerRank`](https://www.hackerrank.com/adams_nicodemus) [`StackOverflow`](https://stackoverflow.com/users/16441971/adamni21).
 
-💬 **I speak:**
-
-\- English: Fluent
-
-\- German: Native
-
-\- Spanish: A2~B1
-
-\- Danish: A1~A2
-
-^Self-assesed (CEFR)
 
 ---
 
@@ -38,8 +27,6 @@
 ---
 
 ## 🏗 My Projects
-
-👉 [Full Stack Blog](https://github.com/adamni21/Full_stack_blog-practice-project-)
 
 👉 [Frontend for restcountries api](https://github.com/adamni21/Rest-countries-Api-client)
 
