@@ -14,7 +14,7 @@
 
 **Languages:**
 
-`Javascript` `Typescript` `C#` `Kotlin(basics)` `Python(basics)` `CSS` `HTML` `SQL(basics)`
+`Javascript` `Typescript` `C#` `Go` `CSS` `HTML` `SQL`
 
 **Frameworks/Libraries:**
 
